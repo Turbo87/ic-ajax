@@ -3,7 +3,7 @@ ic-ajax
 
 [![Build Status](https://travis-ci.org/instructure/ic-ajax.png)](https://travis-ci.org/instructure/ic-ajax)
 
-Ember-friendly `jQuery.ajax` wrapper.
+Ember-friendly [`jQuery.ajax`](http://api.jquery.com/jquery.ajax/) wrapper.
 
 - returns RSVP promises
 - makes apps more testable (resolves promises with `Ember.run`)
